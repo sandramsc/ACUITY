@@ -26,7 +26,7 @@ a web-based tool/application design concept that enables users to visualize proc
 
 ## Project Demo
 
-A Short Video Detailing the Features Implemented in this Application
+A Short Video Detailing Design Feature Implementation
 
 View the Demo/Pitch on YouTube: XXXXX
 
@@ -34,8 +34,8 @@ View the design concept in Figma: https://bit.ly/31NPRAt
 
 ## Screenshots
 ![negative_feedbackWC](https://user-images.githubusercontent.com/19821445/145718820-ec8ea7a9-04a7-4655-835f-398e9f449938.JPG)
-![positive_feedbackWC](https://user-images.githubusercontent.com/19821445/145718824-0612a1ff-6578-4cc0-b540-d4c4aed397f0.JPG)
 ![neutral_feedbackWC](https://user-images.githubusercontent.com/19821445/145718827-59918c14-2ef7-4c19-86af-55ef00897a1e.JPG)
+![positive_feedbackWC](https://user-images.githubusercontent.com/19821445/145718824-0612a1ff-6578-4cc0-b540-d4c4aed397f0.JPG)
 ![sentiments_merged_with_review_df_th](https://user-images.githubusercontent.com/19821445/145718832-cb4b9c48-d05b-481d-b9dc-7f67e88294fd.JPG)
 
 ## Technology Stack
