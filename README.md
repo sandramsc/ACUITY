@@ -96,16 +96,17 @@ docker pull sajustsmile/sharespotui
 ```
 
 ## Usage
+
 docker run -p 8888:8888 sajustsmile/sharespotui
 
 ## Collaborators
 
-| Name             | Link ↘️                        |
-| ---------------- | ------------------------------ |
-| Sandra Ashipala  | https://github.com/sajustsmile |
-| Mohamed Elghamry | https://github.com/medozZzZ    |
-| Sujani Golla     | https://github.com/sujanig     |
-| Shanmugavelan S  |                                |
+| Name             | Link ↘️                          |
+| ---------------- | -------------------------------- |
+| Sandra Ashipala  | https://github.com/sajustsmile   |
+| Mohamed Elghamry | https://github.com/medozZzZ      |
+| Sujani Golla     | https://github.com/sujanig       |
+| Shanmugavelan S  | https://github.com/shanmugavelan |
 
 ## License
 
