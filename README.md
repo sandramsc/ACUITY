@@ -34,13 +34,11 @@ View the design concept in Figma: https://bit.ly/31NPRAt
 
 ## Screenshots
 
-![sentiment_analysis_flow-chart](https://user-images.githubusercontent.com/19821445/145721397-84aeb241-a834-4881-b163-0bb433f4f7e4.JPG)
+![New Macbook Pro Mockup-3](https://user-images.githubusercontent.com/19821445/145729045-8d824924-53d7-4921-837f-6997ff1f2447.png)
 ![negative_feedbackWC](https://user-images.githubusercontent.com/19821445/145718820-ec8ea7a9-04a7-4655-835f-398e9f449938.JPG)
 ![neutral_feedbackWC](https://user-images.githubusercontent.com/19821445/145718827-59918c14-2ef7-4c19-86af-55ef00897a1e.JPG)
 ![positive_feedbackWC](https://user-images.githubusercontent.com/19821445/145718824-0612a1ff-6578-4cc0-b540-d4c4aed397f0.JPG)
 ![sentiments_merged_with_review_df_th](https://user-images.githubusercontent.com/19821445/145718832-cb4b9c48-d05b-481d-b9dc-7f67e88294fd.JPG)
-![New Macbook Pro Mockup-3](https://user-images.githubusercontent.com/19821445/145729045-8d824924-53d7-4921-837f-6997ff1f2447.png)
-![New Macbook Pro Mockup-5](https://user-images.githubusercontent.com/19821445/145729042-cfb11bb0-dec0-4050-b697-cfbec05d5d90.png)
 ![New Macbook Pro Mockup-8](https://user-images.githubusercontent.com/19821445/145729052-8a2c6c93-69d6-41ce-b8d0-184cafc23060.png)
 
 ## Technology Stack
