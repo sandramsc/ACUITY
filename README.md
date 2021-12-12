@@ -33,8 +33,10 @@ View the Demo/Pitch on YouTube: XXXXX
 View the design concept in Figma: https://bit.ly/31NPRAt
 
 ## Screenshots
-
-![screenshot1](https://user-images.githubusercontent.com/19821445/141680795-78106d30-cb05-450e-a304-a60a21c0af00.JPG)
+![negative_feedbackWC](https://user-images.githubusercontent.com/19821445/145718820-ec8ea7a9-04a7-4655-835f-398e9f449938.JPG)
+![positive_feedbackWC](https://user-images.githubusercontent.com/19821445/145718824-0612a1ff-6578-4cc0-b540-d4c4aed397f0.JPG)
+![neutral_feedbackWC](https://user-images.githubusercontent.com/19821445/145718827-59918c14-2ef7-4c19-86af-55ef00897a1e.JPG)
+![sentiments_merged_with_review_df_th](https://user-images.githubusercontent.com/19821445/145718832-cb4b9c48-d05b-481d-b9dc-7f67e88294fd.JPG)
 
 ## Technology Stack
 
@@ -64,6 +66,7 @@ View the design concept in Figma: https://bit.ly/31NPRAt
 2. Dashboard with a visual on anylitics and data for sntiment analysis
 
 3. Users are able to visualize and anylize customer feedback
+
 4. The application allows users to classify feedback on their product
 
 5. We have dockerized the application for future scalability and for the purposes of being able to use the software on any operating system
@@ -77,9 +80,6 @@ To test the application run the following commands on your terminal:
 ```
 clone the repository
 ```
-
-- Website: To start it, run npm start on command line ¡nside dashboard folder
-- API: To start it, run node index.js on command line inside authentication folder
 
 **On docker:**
 
@@ -95,7 +95,7 @@ docker pull sajustsmile/coffeeimage1
 
 ## Usage
 
-Visit http://localhost:5500 on a Browser to View the App
+Visit http:XXX
 
 ## Collaborators
 
@@ -108,4 +108,4 @@ Visit http://localhost:5500 on a Browser to View the App
 
 ## License
 
-[![GitLicense](https://gitlicense.com/badge/sajustsmile/sajustsmile.github.io)](https://github.com/sajustsmile/acuppacoffee/blob/main/LICENSE)
+[![GitLicense](https://github.com/sajustsmile/spotUI)](https://github.com/sajustsmile/spotUI/blob/main/LICENSE)
