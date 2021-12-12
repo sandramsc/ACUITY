@@ -8,7 +8,7 @@ a web-based tool/application design concept that enables users to visualize auto
 ## Table of Contents
 
 <details>
-<summary>SpotUI</summary>
+<summary>ACUITY</summary>
 
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
