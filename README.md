@@ -64,36 +64,18 @@ View the design concept in Figma: https://bit.ly/31NPRAt
 
 ## Features
 
-1. The user feedback is separated into sentiment analyis using machine learning natural language processing
+1. Dashboard with a visual on anylitics and data insights derived from sentiment analysis
 
-2. Dashboard with a visual on anylitics and data for sntiment analysis
+2. Abitlity to visualize and anylize customer/user feedback
 
-3. Users are able to visualize and anylize customer feedback
-
-4. The application allows users to classify feedback on their product
-
-5. We have dockerized the application for future scalability and for the purposes of being able to use the software on any operating system
+3. The product scalabilty potential is monumentouse
 
 ## Running
 
-To test the application run the following commands on your terminal:
-
-**Running the application locally:**
+**Running the data analysis locally:**
 
 ```
 clone the repository
-```
-
-**On docker:**
-
-```
-docker-compose up --build
-```
-
-**Pull image from docker hub:**
-
-```
-docker pull sajustsmile/sharespotui
 ```
 
 ## Usage
