@@ -33,6 +33,7 @@ View the Demo/Pitch on YouTube: XXXXX
 View the design concept in Figma: https://bit.ly/31NPRAt
 
 ## Screenshots
+![sentiment_analysis_flow-chart](https://user-images.githubusercontent.com/19821445/145721397-84aeb241-a834-4881-b163-0bb433f4f7e4.JPG)
 ![negative_feedbackWC](https://user-images.githubusercontent.com/19821445/145718820-ec8ea7a9-04a7-4655-835f-398e9f449938.JPG)
 ![neutral_feedbackWC](https://user-images.githubusercontent.com/19821445/145718827-59918c14-2ef7-4c19-86af-55ef00897a1e.JPG)
 ![positive_feedbackWC](https://user-images.githubusercontent.com/19821445/145718824-0612a1ff-6578-4cc0-b540-d4c4aed397f0.JPG)
