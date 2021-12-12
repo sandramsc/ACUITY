@@ -3,7 +3,7 @@
 
 ## Application Description
 
-a web based tool that enables users to visiualize processed and analysed user feedback on any product
+a web-based tool/application design concept that enables users to visualize processed and analyzed user feedback on any product
 
 ## Table of Contents
 
