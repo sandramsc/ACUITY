@@ -1,21 +1,52 @@
 # Dockerfile, Docker Image, Docker Container
+
 FROM jupyter/scipy-notebook
 
-COPY requirements.txt ./requirements.txt
+# Run a system update
+# Install python3 and pip3
 
-COPY data/SnapChat_reviews.csv ./data/SnapChat_reviews.csv
+LABEL sandra ashipala <sajustsmile@gmail.com>
 
-COPY script.ipynb ./script.ipynb
+RUN apt-get update && apt-get update -y python3 \ python3-pip
 
-RUN pip install -r requirements.txt
+#Install jupyter
+RUN pip3 install jupyter
 
-# Add Tini. Tini operates as a process subreaper for jupyter. This prevents kernel crashes.
-ENV TINI_VERSION v0.6.0
+#Install numpy
+RUN pip3 install numpy
 
-ADD https://github.com/krallin/tini/releases/download/${TINI_VERSION}/tini /usr/bin/tini
+#Install pandas
+RUN pip3 install pandas
 
-RUN chmod +x /usr/bin/tini
+#Install nltk
+RUN pip3 install nltk 
 
-ENTRYPOINT ["/usr/bin/tini", "--"]
+#Install pillow
+RUN pip3 install pillow
 
-CMD ["jupyter", "notebook", "--port=8888", "--no-browser", "--ip=0.0.0.0", "--allow-root"]
+#Install matplotlib
+RUN pip3 install matplotlib
+
+#Install textblob
+RUN pip3 install textblob
+
+#Install wordcloud
+RUN pip3 install wordcloud
+
+#Install seaborn
+RUN pip3 install seaborn
+
+#Install vaderSentiment
+RUN pip3 install vaderSentiment
+
+#Create a new system user
+RUN useradd -ms /bin/bash jupyter
+
+#Change to this new user
+USER jupyter
+
+#Set the container working directory to the user home folder
+WORKDIR /home/jupyter
+
+#Start the jupyter notebook
+ENTRYPOINT ["jupyter", "notebook", "--ip=*"]
