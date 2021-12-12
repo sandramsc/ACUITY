@@ -91,12 +91,11 @@ docker-compose up --build
 **Pull image from docker hub:**
 
 ```
-docker pull sajustsmile/coffeeimage1
+docker pull sajustsmile/sharespotui
 ```
 
 ## Usage
-
-Visit http:XXX
+docker run -p 8888:8888 sajustsmile/sharespotui
 
 ## Collaborators
 
