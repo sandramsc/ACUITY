@@ -70,18 +70,6 @@ View the design concept in Figma: https://bit.ly/31NPRAt
 
 3. The product scalabilty potential is monumentouse
 
-## Running
-
-**Running the data analysis locally:**
-
-```
-clone the repository
-```
-
-## Usage
-
-docker run -p 8888:8888 sajustsmile/sharespotui
-
 ## Collaborators
 
 | Name             | Link ↘️                          |
