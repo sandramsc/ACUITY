@@ -33,6 +33,7 @@ View the Demo/Pitch on YouTube: XXXXX
 View the design concept in Figma: https://bit.ly/31NPRAt
 
 ## Screenshots
+
 ![sentiment_analysis_flow-chart](https://user-images.githubusercontent.com/19821445/145721397-84aeb241-a834-4881-b163-0bb433f4f7e4.JPG)
 ![negative_feedbackWC](https://user-images.githubusercontent.com/19821445/145718820-ec8ea7a9-04a7-4655-835f-398e9f449938.JPG)
 ![neutral_feedbackWC](https://user-images.githubusercontent.com/19821445/145718827-59918c14-2ef7-4c19-86af-55ef00897a1e.JPG)
@@ -91,7 +92,7 @@ docker-compose up --build
 **Pull image from docker hub:**
 
 ```
-docker pull sajustsmile/coffeeimage1
+docker pull sajustsmile/sharespotui
 ```
 
 ## Usage
@@ -108,4 +109,5 @@ Visit http:XXX
 | Shanmugavelan S  |                                |
 
 ## License
+
 [![GitLicense](https://gitlicense.com/badge/sajustsmile/sajustsmile.github.io)](https://github.com/sajustsmile/spotUI/blob/main/LICENSE)
