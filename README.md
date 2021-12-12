@@ -3,7 +3,7 @@
 
 ## Application Description
 
-a web-based tool/application design concept that enables users to visualize processed and analyzed user feedback on any product
+a web-based tool/application design concept that enables users to visualize automatically generated processed and analyzed user feedback on any product
 
 ## Table of Contents
 
@@ -96,8 +96,7 @@ docker pull sajustsmile/sharespotui
 ```
 
 ## Usage
-
-Visit http:XXX
+docker run -p 8888:8888 sajustsmile/sharespotui
 
 ## Collaborators
 
@@ -105,7 +104,7 @@ Visit http:XXX
 | ---------------- | ------------------------------ |
 | Sandra Ashipala  | https://github.com/sajustsmile |
 | Mohamed Elghamry | https://github.com/medozZzZ    |
-| Sujani           | https://github.com/sujanig     |
+| Sujani Golla     | https://github.com/sujanig     |
 | Shanmugavelan S  |                                |
 
 ## License
