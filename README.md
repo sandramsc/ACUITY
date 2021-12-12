@@ -28,7 +28,7 @@ a web-based tool/application design concept that enables users to visualize and 
 
 A Short Video Detailing Design Feature Implementation
 
-View the Demo/Pitch on YouTube: XXXXX
+View the Demo/Pitch on YouTube: https://youtu.be/Y0ornG4siwI
 
 View the design concept in Figma: https://bit.ly/31NPRAt
 
