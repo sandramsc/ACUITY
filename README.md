@@ -107,5 +107,4 @@ Visit http:XXX
 | Shanmugavelan S  |                                |
 
 ## License
-
-[![GitLicense](https://github.com/sajustsmile/spotUI)](https://github.com/sajustsmile/spotUI/blob/main/LICENSE)
+[![GitLicense](https://gitlicense.com/badge/sajustsmile/spotUI)](https://github.com/sajustsmile/spotUI/blob/main/LICENSE)
