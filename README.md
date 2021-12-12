@@ -104,7 +104,7 @@ docker run -p 8888:8888 sajustsmile/sharespotui
 | Sandra Ashipala  | https://github.com/sajustsmile |
 | Mohamed Elghamry | https://github.com/medozZzZ    |
 | Sujani Golla     | https://github.com/sujanig     |
-| Shanmugavelan S  |                                |
+| Shanmugavelan S  | https://github.com/shanmugavelan |
 
 ## License
 [![GitLicense](https://gitlicense.com/badge/sajustsmile/sajustsmile.github.io)](https://github.com/sajustsmile/spotUI/blob/main/LICENSE)
