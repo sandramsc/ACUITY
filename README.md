@@ -74,7 +74,7 @@ View the design concept in Figma: https://bit.ly/31NPRAt
 
 | Name             | Link ↘️                          |
 | ---------------- | -------------------------------- |
-| Sandra Ashipala  | https://github.com/sajustsmile   |
+| Sandra Ashipala  | https://github.com/sandramsc   |
 | Mohamed Elghamry | https://github.com/medozZzZ      |
 | Sujani Golla     | https://github.com/sujanig       |
 | Shanmugavelan S  | https://github.com/shanmugavelan |
